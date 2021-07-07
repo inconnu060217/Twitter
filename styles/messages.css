@@ -1,0 +1,29 @@
+h5{
+    font-weight: bold;
+}
+
+.align{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+.form-inline .form-control {
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.border-x-y{
+    border: 1px solid #ebeef0;
+}
+.border-notop{
+    border-bottom: 1px solid #ebeef0;
+    border-left: 1px solid #ebeef0;
+    border-right: 1px solid #ebeef0;
+}
+
+.sm-padding{
+    padding: 0.5em;
+}

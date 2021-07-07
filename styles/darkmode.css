@@ -1,0 +1,44 @@
+#darkModeToggle {
+    width: 50px;
+    height: 50px;
+}
+.darkMode {
+    background-color: #15202B;
+    color: white;
+}
+
+.darkMode a {
+    color: white;
+}
+
+.darkMode svg {
+    fill: white;
+}
+
+.darkMode .tweet_container {
+    border: #6c757d 0.5px solid;
+}
+
+.darkMode .border-x {
+    border-left: #6c757d 0.5px solid;
+    border-right: #6c757d 0.5px solid;
+
+}
+.darkMode .profile-background.light {
+    border-top: #6c757d 0.5px solid;
+}
+.darkMode .profile-container {
+    border: 4px solid #15202B;
+}
+
+.darkMode .tweet_profile_pic {
+    border: 4px solid #15202B;
+}
+
+.darkMode .modal_container.light {
+    background-color: #15202B;
+}
+
+.darkMode .modal_header {
+    border-bottom: #6c757d 0.5px solid;
+}

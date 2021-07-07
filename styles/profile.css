@@ -1,0 +1,78 @@
+#logo {
+    width: 47px;
+}
+
+.icons {
+    height: 26px;
+}
+
+.left-col-item {
+    font-size: 20px;
+    color: black;
+}
+
+.border-x {
+    border-left: 1px solid #ebeef0;
+    border-right: 1px solid #ebeef0;
+}
+
+.border-all {
+    border: 1px solid #ebeef0;
+    border-radius: 15px;
+}
+
+.button-light {
+    background-color: #1da1f2;
+    color: white;
+}
+
+.button-outline-light {
+    background-color: white;
+    color: #1da1f2;
+}
+
+.btn-rounded {
+    border-radius: 999px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #1da1f2;
+    padding-left: 1em;
+    padding-right: 1em;
+    min-height: 39px;
+    font-weight: 700;
+}
+
+.btn-rounded:focus {
+    outline: none;
+}
+
+.profile-background {
+    height: 200px;
+    position: relative;
+}
+
+.profile-background.light {
+    border-top: 1px solid #ebeef0;
+    background-color: rgb(196, 207, 214);
+}
+
+.profile-container {
+    width: 134px;
+    height: 134px;
+    border-radius: 50%;
+    border: 4px solid white;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    bottom: -67px;
+    z-index: 5;
+}
+
+.profile-container.light, .tweet_profile_pic.light {
+    background-color: rgb(247, 249, 250);
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: 100%;
+}
